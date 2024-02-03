@@ -7,6 +7,10 @@ public class cateoillars {
 		this.moves=moves;
 		this.cabbage=cabbage;
 	}
-    
+    int get_moves()
+    {
+    	return moves;
+    }
+ 
 	
 }
